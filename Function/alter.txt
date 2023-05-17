@@ -1,2 +1,9 @@
 chennai super king  
  dayataaaaaa
+
+
+ Export class name{
+    constructor(public hoursePower:number,public type:string){
+
+    }
+ }
